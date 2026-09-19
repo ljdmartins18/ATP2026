@@ -8,7 +8,7 @@
 
 ## Resumo
 
-- Desenhar o barco à vela proposto pelo professor e resolver o Maze10 de Blockly Games
+- Desenhar o barco à vela proposto pelo docente e resolver o Maze10 de Blockly Games
 
 ## Lista de resultados
 

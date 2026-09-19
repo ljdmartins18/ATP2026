@@ -4,7 +4,7 @@
 
 - Nome: Lara de Jesus Dias Martins
 - ID: A115435
-- Foto: <img src="foto.png" alt="Foto do autor" width="150">
+- Foto: <img src="foto.png" alt="Foto do autor" width="100">
 
 ## Resumo
 

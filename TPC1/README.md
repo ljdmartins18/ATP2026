@@ -12,5 +12,5 @@
 
 ## Lista de resultados
 
-- [Exercício 1](exercicio1.py)
+- [Exercício 1](LEVEL10.maze.png)
 - [Exercício 2](exercicio2.py)

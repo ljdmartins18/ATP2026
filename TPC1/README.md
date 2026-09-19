@@ -12,5 +12,5 @@
 
 ## Lista de resultados
 
-- [Exercício 1](LEVEL10.maze.png)
+- [Exercício 1: Resolução do nível 10 do maze de Blockly Games](LEVEL10.maze.png)
 - [Exercício 2](exercicio2.py)

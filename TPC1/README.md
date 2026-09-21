@@ -13,4 +13,4 @@
 ## Lista de resultados
 
 - [Exercício 1: Resolução do nível 10 do maze de Blockly Games](LEVEL10.maze.png)
-- [Exercício 2: Desenho do barco proposto pelo docente (ainda não realizado)](https://blockly.games/turtle?lang=en&level=10#g583fx)
+- [Exercício 2: Desenho do barco proposto pelo docente](https://blockly.games/turtle?lang=en&level=10#g583fx)

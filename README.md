@@ -1,5 +1,5 @@
 # ATP2026
 
-## Autora: Lara de Jesus Dias Martins (a115435)
+## Autor: Lara de Jesus Dias Martins (a115435)
 
 Repositório para a UC de Algoritmos e Técnicas de Programação

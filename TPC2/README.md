@@ -17,5 +17,5 @@
 
 ## Lista de resultados
 
-- [Programa para o jogo - "Adivinha o número"](LEVEL10.maze.png)
+- [Programa para o jogo - "Adivinha o número"](jogo.py)
 

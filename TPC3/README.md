@@ -14,9 +14,9 @@
   - Se o computador jogar primeiro deverá vencer;
   - Se o computador jogar em segundo poderá vencer se o outro jogador fizer uma aposto fora da estratégia vencedora.
 
-Implementa o jogo com 2 vertentes: o computador joga primeiro (deverá ganhar sempre), e o computador joga em segundo lugar (poderá ganhar ou não dependendo das jogadas do outro).
+- Implementa o jogo com 2 vertentes: o computador joga primeiro (deverá ganhar sempre), e o computador joga em segundo lugar (poderá ganhar ou não dependendo das jogadas do outro).
 
 ## Lista de resultados
 
-- [Programa para o jogo - "Adivinha o número"](jogo.py)
+- [Programa para o jogo - "Corrida para os 100"](jogo.py)
 

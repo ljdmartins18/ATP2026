@@ -41,5 +41,5 @@
       
 ## Lista de resultados
 
-- [Programa para o jogo - "Corrida para os 100"](jogo.py)
+- [Programa para a aplicação] (jogo.py)
 

@@ -41,5 +41,5 @@
       
 ## Lista de resultados
 
-- [Programa para a aplicação] (jogo.py)
+- [Programa para a aplicação](jogo.py)
 

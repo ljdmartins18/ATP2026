@@ -29,5 +29,5 @@ Considere que o modelo do aluno e da turma têm a seguinte estrutura:
 
 ## Lista de resultados
 
-- [Aplicação para gestão de alunos](LEVEL10.maze.png)
+- [Aplicação para gestão de alunos](Aplicação_alunos.py)
 

@@ -8,7 +8,7 @@
 
 ## Resumo
 
-###Aplicação para gestão de alunos 
+### Aplicação para gestão de alunos 
 
 Considere que o modelo do aluno e da turma têm a seguinte estrutura:
 
@@ -29,5 +29,5 @@ Considere que o modelo do aluno e da turma têm a seguinte estrutura:
 
 ## Lista de resultados
 
-- [Exercício 1: Resolução do nível 10 do maze de Blockly Games](LEVEL10.maze.png)
-- [Exercício 2: Desenho do barco proposto pelo docente](https://blockly.games/turtle?lang=en&level=10#g583fx)
+- [Aplicação para gestão de alunos](LEVEL10.maze.png)
+

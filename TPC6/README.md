@@ -12,7 +12,7 @@
 
 - Cria uma aplicação Python que permita ao utilizador usar todas as funcionalidades pedidas na ficha da aula teórico - prática 6.
   
-- Considerei que o modelo da lista de dias registados tem a seguinte estrutura: TabMeteo = [(Data,TempMin,TempMax,Precipitacao)] Data = (Int,Int,Int) TempMin = Float TempMax = Float Precipitacao = Float
+- Foi considerado que o modelo da lista de dias registados tem a seguinte estrutura: TabMeteo = [(Data,TempMin,TempMax,Precipitacao)] Data = (Int,Int,Int) TempMin = Float TempMax = Float Precipitacao = Float
 
 - No menu da aplicação existem as operações:
 

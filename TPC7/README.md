@@ -14,4 +14,4 @@
 
 ## Lista de resultados
 
-- [Teste de Aferição](Aplicação_alunos.py)
+- [Teste de Aferição](#TPC8.py)

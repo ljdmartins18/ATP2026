@@ -14,4 +14,4 @@
 
 ## Lista de resultados
 
-- [Teste de Aferição](#TPC8.py)
+- [Teste de Aferição](testeaf.py)
